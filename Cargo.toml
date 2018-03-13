@@ -1,0 +1,6 @@
+[package]
+name = "naive-dsp"
+version = "0.1.0"
+authors = ["Yukio Usuzumi <anohigisavay@gmail.com>"]
+
+[dependencies]
